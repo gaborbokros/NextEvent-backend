@@ -19,6 +19,9 @@ next(new AppError(message, statusCode, data));
 - **Backend:**
   - **Node.js** – JavaScript runtime environment
   - **Express.js** – Web application framework for Node.js
+- **Database:**
+  - **MongoDB** – NoSQL database for storing application data
+  - **Mongoose** – ODM library for MongoDB
 - **Utilities:**
   - **Dotenv** – Loads environment variables from a .env file
   - **Cors** – Enables Cross-Origin Resource Sharing for API access
